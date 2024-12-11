@@ -1,4 +1,4 @@
-Provide some fomates for the item that shows in Documentation Rubric:Running-Configs: Covering all network devices running configurations. **Just for your reference**
+Provide some fomates for the item that shows in Documentation Rubric:Running-Configs: Covering all network devices running configurations.   **Just for your reference**  
 Router1  
 1. Router Identification and Basic Information:  
 --  Router Model: cisco 4321
